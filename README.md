@@ -205,16 +205,6 @@ After configuring the virtual machine, run the following commands in the Kali Li
 | Test DNS resolution        | `nslookup networkwalks.com` | Domain resolves              |
 | Verify Nmap                | `nmap --version`            | Nmap version displayed       |
 
-### 📸 Screenshot 7: Network Verification Results
-
-<!-- INSERT YOUR TERMINAL OUTPUT SCREENSHOT HERE AFTER RUNNING THE COMMANDS -->
-
-![Network Verification Results](screenshots/7-network-verification.png)
-
-*Add the screenshot after running the commands and checking the actual results.*
-
----
-
 ## 🐞 Problems Encountered and Solutions
 
 ### Problem 1. Internet Connectivity After Static IP Configuration
