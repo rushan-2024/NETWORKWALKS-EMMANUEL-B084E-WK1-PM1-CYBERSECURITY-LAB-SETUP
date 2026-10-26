@@ -125,7 +125,7 @@ A NAT Network allows virtual machines connected to the same network to communica
 
 ### 📸 Screenshot 3: VirtualBox NAT Network Configuration
 
-![VirtualBox NAT Network](screenshots/3-nat-network-configuration.png)
+![VirtualBox NAT Network](3-nat-network-configuration.png)
 
 ---
 
@@ -156,7 +156,7 @@ RAM:          2048 MB
 
 ### 📸 Screenshot 4: Kali Linux Desktop
 
-![Kali Linux Desktop](screenshots/4-kali-linux-desktop.png)
+![Kali Linux Desktop](4-kali-linux-desktop.png)
 
 A shared folder can also be configured to transfer files between the host operating system and the Kali Linux virtual machine when required.
 
@@ -189,7 +189,7 @@ These settings are intended to keep the Kali Linux machine consistently addressa
 
 ### 📸 Screenshot 5: Kali Linux IPv4 Configuration
 
-![Kali Linux IPv4 Configuration](screenshots/5-kali-ipv4-configuration.png)
+![Kali Linux IPv4 Configuration](5-kali-ipv4-configuration.png)
 
 ---
 
