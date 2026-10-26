@@ -123,7 +123,7 @@ IPv6:         Disabled
 
 A NAT Network allows virtual machines connected to the same network to communicate with each other while supporting outbound network connectivity.
 
-### 📸 Screenshot 3: VirtualBox NAT Network Configuration
+### 📸 VirtualBox NAT Network Configuration
 
 ![VirtualBox NAT Network](3-nat-network-configuration.png)
 
@@ -154,7 +154,7 @@ RAM:          2048 MB
 
 **Download:** https://www.kali.org/get-kali/
 
-### 📸 Screenshot 4: Kali Linux Desktop
+### 📸  Kali Linux Desktop
 
 ![Kali Linux Desktop](4-kali-linux-desktop.png)
 
@@ -187,7 +187,7 @@ DNS Server:   8.8.8.8
 
 These settings are intended to keep the Kali Linux machine consistently addressable within the lab network.
 
-### 📸 Screenshot 5: Kali Linux IPv4 Configuration
+### 📸 Kali Linux IPv4 Configuration
 
 ![Kali Linux IPv4 Configuration](5-kali-ipv4-configuration.png)
 
